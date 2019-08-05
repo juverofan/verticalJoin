@@ -3,6 +3,7 @@ Join 2 files vertically
 
 <b>python verticalJoin.py -f file1 -j file2 -o outputFile</b>
 
+Sample:<br>
 File1:<br>
 AB<br>
 12<br>
