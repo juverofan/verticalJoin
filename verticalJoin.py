@@ -1,4 +1,4 @@
-#Merge 2 files with same rows into 1 files
+#Merge 2 files with same lines into 1 files
 
 from os import listdir
 from os.path import isfile, join
