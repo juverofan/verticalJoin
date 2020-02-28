@@ -1,5 +1,4 @@
-﻿#Author: thulek@gmail.com
-#Extract a phylip to the partitioned phylip files (input raxml partition)
+#Merge 2 files with same rows into 1 files
 
 from os import listdir
 from os.path import isfile, join
